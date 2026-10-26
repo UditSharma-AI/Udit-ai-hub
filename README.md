@@ -2,14 +2,14 @@
 
 *Learn. Practice. Recall. Apply.*
 
-Interactive study notes for **Machine Learning** and **Deep Neural Networks**: 22 sessions, each with
+Interactive study notes for **Machine Learning**, **Deep Neural Networks**, **Deep Reinforcement Learning**, **Natural Language Processing**, **Software Engineering for Machine Learning**: 66 sessions, each with
 
 - **Simple Learning**: plain-language explanation, steps, an interactive demo, a real-world example and a quick check
 - **Technical Deep Dive**: equations, derivations, worked examples, complexity, verified Python code
 - **Split view** that keeps both in sync
 - **Interview prep** (beginner, intermediate, advanced, with a simulation mode), **quizzes**, **flashcards** with spaced repetition, and a **coverage report**
 
-Live site: https://udit-ai-hub.vercel.app
+Site address (set at export time; check it after deploying): https://udit-ai-hub.vercel.app
 
 ## How it works
 

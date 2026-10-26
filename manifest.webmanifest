@@ -1,7 +1,7 @@
 {
  "name": "Udit Sharma | AI Learning Hub",
  "short_name": "AI Hub",
- "description": "Free interactive notes for Machine Learning and Deep Neural Networks: 22 sessions, each with a plain-language explanation, a technical deep dive with derivations and Python code, interactive labs, interview questions, quizzes and flashcards.",
+ "description": "Free interactive notes for Machine Learning, Deep Neural Networks, Deep Reinforcement Learning, Natural Language Processing and Software Engineering for Machine Learning: 66 sessions, each with a plain-language explanation, a technical deep dive with derivations and Python code, interactive labs, interview questions, quizzes and flashcards.",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
